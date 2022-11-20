@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2022-10-20T17:49:11Z" finished-at="2022-10-20T17:49:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2022-10-20T17:49:11Z" finished-at="2022-10-20T17:49:11Z">
+      <class name="com.practice.automation.DemoTestng">
+        <test-method status="PASS" signature="createDemo()[pri:0, instance:com.practice.automation.DemoTestng@6cd8737]" name="createDemo" duration-ms="37" started-at="2022-10-20T23:19:11Z" finished-at="2022-10-20T23:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDemo -->
+      </class> <!-- com.practice.automation.DemoTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
